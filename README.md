@@ -1,24 +1,4 @@
-ProfileMe.dev
 
-LEAVE 
-FEEDBACK
-New feature:
-Light/dark mode
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-© 2022 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Introduction
-Introduce yourself. Tell visitors about you and who you are.
-
-Next section
 👋
 HI! MY NAME IS:
 Abhinav Rastogi
