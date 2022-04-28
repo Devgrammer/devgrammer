@@ -3,10 +3,10 @@
 HI! MY NAME IS:
 Abhinav Rastogi
 💡
-SUBTITLE:
+
 Frontend Dev | Design | ShutterBug
 ✏️
-LONG DESCRIPTION:
+
 Along with the taste of coffee, I build what you see after hitting www...
 About me
 🌍
