@@ -1,43 +1,4 @@
 
-👋
-HI! MY NAME IS:
-Abhinav Rastogi
-💡
-
-Frontend Dev | Design | ShutterBug
-✏️
-
-Along with the taste of coffee, I build what you see after hitting www...
-About me
-🌍
-I'M BASED IN:
-India
-🖥️
-SEE MY PORTFOLIO:
-MyPortfolio
-http://
-myapp.com
-✉️
-CONTACT ME AT:
-rastogi.abhinav8@gmail.com
-🚀
-I'M CURRENTLY WORKING ON:
-LineupX
-http://
-myapp.com
-🧠
-I'M CURRENTLY LEARNING:
-W3
-🤝
-I'M OPEN TO COLLABORATING ON:
-React JS, Javascript, CSS and C++
-⚡
-ANYTHING ELSE:
-I love to say Checkmate
-Next section
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Abhinav Rastogi
 ================================
 
